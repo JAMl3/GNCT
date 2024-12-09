@@ -2,7 +2,8 @@
 
 A real-time network connectivity tester specifically designed for gamers to check their connection to various gaming services, platforms, and communities.
 
-![Network Tester Preview](preview.png)
+![image](https://github.com/user-attachments/assets/a3b74f2b-04e3-459f-9122-6f2a179fce2e)
+
 
 ## Features
 
